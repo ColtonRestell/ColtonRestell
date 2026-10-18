@@ -25,17 +25,6 @@
 - Computer Engineering student
 - Interested in embedded systems and firmware
 - Learning low-level C, microcontrollers, and Linux internals
-- Focused on understanding how things work under the hood
-
-### `> FEATURED PROJECT`
-
-**[Radio Clock](https://github.com/ColtonRestell/Radio-Clock)**
-
-FM radio clock built around the Raspberry Pi Pico 2 W, with an OLED display, rotary encoder, and configurable alarm.
-
-### `> GITHUB ACTIVITY`
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColtonRestell&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF)
 
 ---
 
