@@ -5,7 +5,7 @@
 
 ### COMPUTER ENGINEERING · EMBEDDED SYSTEMS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Learning+Bare-Metal+C;Exploring+Linux+Internals;Building+Hardware+%2B+Software" alt="Animated typing text" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Learning+Bare-Metal+C;Exploring+Linux+Internals;" alt="Animated typing text" />
 
 ---
 
