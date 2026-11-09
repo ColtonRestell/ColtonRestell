@@ -12,7 +12,6 @@
 **Building from the hardware up.**
 
 [![C](https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=c&logoColor=000000)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=cplusplus&logoColor=000000)](https://isocpp.org/)
 [![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=000000)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=000000)](https://git-scm.com/)
 
